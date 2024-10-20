@@ -1,5 +1,8 @@
 # project overview
-Creer un script qui va effectivement se faire passer pour moi, car il utilise mon compte utilisateur pour se connecter à Telegram. Une fois connecté, il peut parcourir les groupes auxquels j'appartiens et fouiller les messages sans que je ne sois administrateur.NB:il ne s'agira pas d'un bot, mais d'un script qui se fera passer pour moi.
+Creer un script qui va effectivement se faire passer pour moi,
+ car il utilise mon compte utilisateur pour se connecter à Telegram.
+  Une fois connecté, il peut parcourir les groupes auxquels j'appartiens et
+   rechercher et enregistrer les messages sans que je ne sois administrateur.NB:il ne s'agira pas d'un bot, mais d'un script qui se fera passer pour moi.
 Nous allons faire une api avec flask pour gerer les requetes de l'interface
 
 
